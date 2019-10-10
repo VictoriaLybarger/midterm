@@ -1,0 +1,46 @@
+:root {
+    font-size: 1rem; 
+}
+
+*, 
+::before, 
+::after {
+    margin: 0; 
+    padding: 25; 
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: left;
+}
+
+body {
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: left; 
+    font-size: 3rem; 
+    white-space: initial;
+
+}
+
+h2 {
+    font-family: 'Unna', serif;
+    text-align: left; 
+    font-size: 2.5rem; 
+    letter-spacing: 0.02em; 
+    color: rgb(0, 0, 0); 
+    padding: 0; 
+}
+
+assignment h2 {
+    color: rgb(228, 178, 15); 
+    font-size: 4rem; 
+    margin-bottom: 3rem;
+}
+
+a, 
+div {
+    font-size: 1.5rem; 
+    margin-bottom: 4rem;
+}
+
+inspiration {
+    white-space: pre-line; 
+}
+
